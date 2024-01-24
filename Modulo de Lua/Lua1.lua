@@ -1,0 +1,11 @@
+
+
+
+print("Texto de Lua")
+
+
+
+
+
+
+
